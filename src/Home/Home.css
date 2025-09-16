@@ -1,5 +1,5 @@
 #home{
-  width:1356px;
+  width:1358px;
   margin-top: -3rem;
   margin-left:-3rem;
   background: linear-gradient(to bottom right, #0f172a, #1e293b, #0f172a);
@@ -79,7 +79,7 @@
 }
 
 .club-text .text1{
-  background: linear-gradient(to right, #a78bfa, #d8b4fe, #549bf1); /* Purple to Blue gradient */
+  background: linear-gradient(to right, #200272, #d8b4fe, #549bf1); /* Purple to Blue gradient */
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
