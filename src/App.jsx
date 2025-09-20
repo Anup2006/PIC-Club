@@ -1,6 +1,7 @@
 import './App.css'
 import Header from './Header/Header.jsx'
 import Home from './Home/Home.jsx'
+import Contact from './Contact/Contact.jsx'
 import Footer from './Footer/Footer.jsx'
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <>
       <Header/>
       <Home/>
+      <Contact/>
       <Footer/>
     </>
   )
